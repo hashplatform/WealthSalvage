@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WLTHS
+Comment=WLTHS P2P Cryptocurrency
+Comment[fr]=WLTHS, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=WLTHS, eşten eşe kriptografik sanal para birimi
+Exec=jiyo-qt %u
+Terminal=false
+Type=Application
+Icon=jiyo128
+MimeType=x-scheme-handler/jiyo;
+Categories=Office;Finance;
